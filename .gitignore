@@ -2,3 +2,4 @@
 .idea
 build
 uv.lock
+__pycache__
